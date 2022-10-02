@@ -11,7 +11,7 @@
             "version": "2.2.4",
             "description": "PS4 Homebrew Enabler",
             "type": "plugin",
-            "icon": "https://avatars.githubusercontent.com/u/91367123?s=200&v=4",
+            "icon": "https://avatars.githubusercontent.com/u/91367123?s=100&v=4",
             "dl": {
                 "v900": "https://github.com/GoldHEN/GoldHEN/blob/19d768eef604b5df16f4be87755c9877c70a0b55/goldhen_2.2.4_900.bin?raw=true",
                 "v755": "https://github.com/GoldHEN/GoldHEN/blob/19d768eef604b5df16f4be87755c9877c70a0b55/goldhen_2.2.4_755.bin?raw=true",
