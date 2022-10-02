@@ -12,7 +12,14 @@
             "description": "PS4 Homebrew Enabler",
             "type": "plugin",
             "icon": "https://avatars.githubusercontent.com/u/91367123?s=200&v=4",
-            "link": "https://github.com/GoldHEN/GoldHEN/blob/19d768eef604b5df16f4be87755c9877c70a0b55/goldhen_2.2.4_900.bin?raw=true"
+            "dl": {
+                "v900": "https://github.com/GoldHEN/GoldHEN/blob/19d768eef604b5df16f4be87755c9877c70a0b55/goldhen_2.2.4_900.bin?raw=true",
+                "v755": "https://github.com/GoldHEN/GoldHEN/blob/19d768eef604b5df16f4be87755c9877c70a0b55/goldhen_2.2.4_755.bin?raw=true",
+                "v702": "https://github.com/GoldHEN/GoldHEN/blob/19d768eef604b5df16f4be87755c9877c70a0b55/goldhen_2.2.4_702.bin?raw=true",
+                "v672": "https://github.com/GoldHEN/GoldHEN/blob/19d768eef604b5df16f4be87755c9877c70a0b55/goldhen_2.2.4_672.bin?raw=true",
+                "v505": "https://github.com/GoldHEN/GoldHEN/blob/19d768eef604b5df16f4be87755c9877c70a0b55/goldhen_2.2.4_505.bin?raw=true"
+            },
+            "link": "https://github.com/GoldHEN/GoldHEN"
         },
         {
             "name": "Orbis Toolbox",
@@ -21,7 +28,14 @@
             "type": "tool",
             "description": "A modification of the playstation UI to help with launching and developing homebrew.",
             "icon": "https://avatars.githubusercontent.com/u/91367123?s=200&v=4",
-            "link": "https://github.com/OSM-Made/Orbis-Toolbox/releases/download/1.0.1190/Orbis-Toolbox-900.bin"
+            "dl": {
+                "v900": "https://github.com/OSM-Made/Orbis-Toolbox/releases/download/1.0.1190/Orbis-Toolbox-900.bin",
+                "v755": "https://github.com/OSM-Made/Orbis-Toolbox/releases/download/1.0.1190/Orbis-Toolbox-755.bin",
+                "v702": "https://github.com/OSM-Made/Orbis-Toolbox/releases/download/1.0.1190/Orbis-Toolbox-702.bin",
+                "v672": "https://github.com/OSM-Made/Orbis-Toolbox/releases/download/1.0.1190/Orbis-Toolbox-672.bin",
+                "v505": "https://github.com/OSM-Made/Orbis-Toolbox/releases/download/1.0.1190/Orbis-Toolbox-505.bin"
+            },
+            "link": "https://github.com/OSM-Made/Orbis-Toolbox"
         }
     ]
 }
