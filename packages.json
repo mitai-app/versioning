@@ -27,7 +27,7 @@
             "version": "1.0.1190-alpha",
             "type": "tool",
             "description": "A modification of the playstation UI to help with launching and developing homebrew.",
-            "icon": "https://avatars.githubusercontent.com/u/91367123?s=200&v=4",
+            "icon": "https://avatars.githubusercontent.com/u/67383397?v=4",
             "dl": {
                 "v900": "https://github.com/OSM-Made/Orbis-Toolbox/releases/download/1.0.1190/Orbis-Toolbox-900.bin",
                 "v755": "https://github.com/OSM-Made/Orbis-Toolbox/releases/download/1.0.1190/Orbis-Toolbox-755.bin",
