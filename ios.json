@@ -1,21 +1,25 @@
 {
    "name":"Mi - PS4 + PS3 Management App",
    "author":"Smithy",
-   "version":"1.0.0-alpha",
+   "version":"0.1.0-alpha",
    "contributors":[
       "@Mr-Smithy-x/Vonley"
    ],
    "changelog":[
       "PS3 (PS3 Manager API, WebMan MOD, CCAPI) Support",
-      "PS4 (KLog Viewer, GoldHen Bin Uploader) Support"
+      "PS4 (KLog Viewer, GoldHen Bin Uploader) Support",
+      "iOS JB web server host added",
+      "Repo Package hosting"
    ],
    "build":"https://github.com/mitai-app/Mi-iOS/releases/tag/latest",
    "changelogs":[
       {
-         "name":"1.0.0-alpha",
+         "name":"0.1.0-alpha",
          "changes":[
             "PS3 (PS3 Manager API, WebMan MOD, CCAPI) Support",
             "PS4 (KLog Viewer, GoldHen Bin Uploader) Support"
+            "iOS JB web server host added",
+            "Repo Package hosting"
          ],
          "build":"https://github.com/mitai/Mi-iOS/releases/tag/latest"
       }
