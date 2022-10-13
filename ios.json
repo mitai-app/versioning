@@ -9,7 +9,7 @@
       "PS3 (PS3 Manager API, WebMan MOD, CCAPI) Support",
       "PS4 (KLog Viewer, GoldHen Bin Uploader) Support",
       "iOS JB web server host added",
-      "Repo Package hosting"
+      "Repo package hosting"
    ],
    "build":"https://github.com/mitai-app/Mi-iOS/releases/tag/latest",
    "changelogs":[
@@ -17,9 +17,9 @@
          "name":"0.1.0-alpha",
          "changes":[
             "PS3 (PS3 Manager API, WebMan MOD, CCAPI) Support",
-            "PS4 (KLog Viewer, GoldHen Bin Uploader) Support"
+            "PS4 (KLog Viewer, GoldHen Bin Uploader) Support",
             "iOS JB web server host added",
-            "Repo Package hosting"
+            "Repo package hosting"
          ],
          "build":"https://github.com/mitai/Mi-iOS/releases/tag/latest"
       }
