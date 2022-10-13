@@ -1,7 +1,7 @@
 {
    "name":"Mi - PS4 + PS3 Management App",
    "author":"Smithy",
-   "version":"1.1.0",
+   "version":"0.1.0-alpha",
    "contributors":[
       "@Mr-Smithy-x/Vonley"
    ],
@@ -13,12 +13,12 @@
    "build":"https://github.com/mitai-app/Mi-Android/releases/tag/latest",
    "changelogs":[
       {
-         "name":"1.1.0",
+         "name":"0.1.0-alpha",
          "changes":[
             "PS3 Support",
             "KLog Viewer",
             "PS3MAPI, WEBMAN Support",
-            "GoldenHen 2.1 in this build",
+            "GoldenHen 2.2.4 in this build",
             "Stability"
          ],
          "build":"https://github.com/mitai/Mi-Android/releases/tag/latest"
