@@ -11,7 +11,7 @@
       "iOS JB web server host added",
       "Repo package hosting"
    ],
-   "build":"https://github.com/mitai-app/Mi-iOS/releases/tag/latest",
+   "build":"https://github.com/mitai-app/Mi/releases/tag/latest",
    "changelogs":[
       {
          "name":"0.1.0-alpha",
@@ -21,7 +21,7 @@
             "iOS JB web server host added",
             "Repo package hosting"
          ],
-         "build":"https://github.com/mitai/Mi-iOS/releases/tag/latest"
+         "build":"https://github.com/mitai/Mi/releases/tag/latest"
       }
    ],
    "thanks":[
