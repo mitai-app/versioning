@@ -8,6 +8,20 @@
         {
             "name": "GoldHen",
             "author": "SiSTRo",
+            "version": "2.3",
+            "description": "PS4 Homebrew Enabler",
+            "type": "plugin",
+            "icon": "https://avatars.githubusercontent.com/u/91367123?s=100&v=4",
+            "dl": {
+                "v900": "https://github.com/GoldHEN/GoldHEN/raw/b5a78e1e1f6ecbc2dfdcd63b4bb5446f49e309c9/goldhen_2.3_900.bin?raw=true",
+                "v672": "https://github.com/GoldHEN/GoldHEN/raw/b5a78e1e1f6ecbc2dfdcd63b4bb5446f49e309c9/goldhen_2.3_672.bin?raw=true",
+                "v505": "https://github.com/GoldHEN/GoldHEN/raw/b5a78e1e1f6ecbc2dfdcd63b4bb5446f49e309c9/goldhen_2.3_505.bin?raw=true"
+            },
+            "link": "https://github.com/GoldHEN/GoldHEN"
+        },
+        {
+            "name": "GoldHen",
+            "author": "SiSTRo",
             "version": "2.2.4",
             "description": "PS4 Homebrew Enabler",
             "type": "plugin",
